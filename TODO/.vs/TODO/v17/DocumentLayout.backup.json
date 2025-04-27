@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\Desktop\\TODO\\TODO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE69B6D-C9DA-47CE-80ED-5C1844945817}|TODO.vcxproj|C:\\Users\\My Computer\\Desktop\\TODO\\TODO\\TODO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CE69B6D-C9DA-47CE-80ED-5C1844945817}|TODO.vcxproj|solutionrelative:TODO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TODO.cpp",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TODO\\TODO\\TODO.cpp",
+              "RelativeDocumentMoniker": "TODO.cpp",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TODO\\TODO\\TODO.cpp*",
+              "RelativeToolTip": "TODO.cpp*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T06:44:54.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
